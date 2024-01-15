@@ -2,7 +2,8 @@
     "984015688807100419": [
         { "id": "badge1", "description": "HypeSquad Balance", "icon": "https://cdn.discordapp.com/emojis/1121437715079106662.png"},
         { "id": "badge2", "description": "Moderator Programmes Alumni", "icon": "https://cdn.discordapp.com/emojis/1121437692853485580.png"},
-        { "id": "badge3", "description": "Server boosting since May 25, 2020", "icon": "https://cdn.discordapp.com/badge-icons/991c9f39ee33d7537d9f408c3e53141e.png"}
+        { "id": "badge3", "description": "Server boosting since May 25, 2020", "icon": "https://cdn.discordapp.com/badge-icons/991c9f39ee33d7537d9f408c3e53141e.png"},
+        { "id": "badge4", "description": "Snow World", "icon": "https://cdn.discordapp.com/emojis/1121437697949573221.png"}
     ],
     "853147823066578946": [
         { "id": "badge1", "description": "Kunal", "icon": "https://cdn.discordapp.com/emojis/1179757753682628628.gif"}
