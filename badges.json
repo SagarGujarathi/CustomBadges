@@ -13,5 +13,9 @@
     ],
     "644981114741719040": [
         { "id": "badge1", "description": "Early Supporter", "icon": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png"}
+    ],
+    "984015688807100419": [
+        { "id": "badge1", "description": "HypeSquad Balance", "icon": "https://cdn.discordapp.com/emojis/1121437715079106662.png"},
+        { "id": "badge2", "description": "Moderator Programmes Alumni", "icon": "https://cdn.discordapp.com/emojis/1121437692853485580.png"},
     ]
 }
