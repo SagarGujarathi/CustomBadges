@@ -46,8 +46,6 @@ export default definePlugin({
     name: "customBadges",
     description: "Add custom badges to your profile.",
     authors: [{ id: 984015688807100419n, name: "Sampath" }],
-    required: true,
-
     patches: [
         /* Patch the badge list component on user profiles */
         {
